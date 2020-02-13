@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Tristan Dennis"
   avatar           : "image01.jpg"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Bioinformatics postdoc at the Institute of Biodiversity, Animal Health and Comparative Medicine at the University of Glasgow. I use genome sequencing to study pathogens and vectors."
   location         : "Glasgow, Scotland"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=idvaY90AAAAJ&hl=en"
-  email            :
+  email            : "Tristan.Dennis@Glasgow.ac.uk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
